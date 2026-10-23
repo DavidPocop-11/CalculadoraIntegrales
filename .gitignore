@@ -1,0 +1,9 @@
+out/
+build/
+target/
+.idea/
+*.iml
+*.log
+prueba_*.pdf
+prueba_*.png
+fuentes.txt
